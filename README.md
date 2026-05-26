@@ -1,11 +1,4 @@
-<img width="1042" height="532" alt="Screenshot 2026-05-26 233948" src="https://github.com/user-attachments/assets/c9f49abe-8fe0-40a6-8c6b-e0dc3f3c6b3e" />
-<img width="1042" height="532" alt="Screenshot 2026-05-26 233948" src="https://github.com/user-attachments/assets/941c9928-e382-4ded-8232-42afb40a02f9" />
-<img width="1042" height="532" alt="Screenshot 2026-05-26 233948" src="https://github.com/user-attachments/assets/a98734ea-c339-4c56-95f7-1a9e12058ddb" />
-<img width="1043" height="519" alt="Screenshot 2026-05-26 233918" src="https://github.com/user-attachments/assets/92c7b854-b929-47e9-860a-131d144a8907" />
-<img width="1042" height="532" alt="Screenshot 2026-05-26 233948" src="https://github.com/user-attachments/assets/b397de35-d8d7-45f3-812a-80f25643f205" />
-<img width="1042" height="532" alt="Screenshot 2026-05-26 233948" src="https://github.com/user-attachments/assets/8e26ce6f-0ba6-4c85-a485-e9c11d9977d4" />
-<img width="1042" height="532" alt="Screenshot 2026-05-26 233948" src="https://github.com/user-attachments/assets/dc558f8f-b980-4cb1-837c-eead4b95c786" />
-# EXP-1
+
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
